@@ -1,0 +1,16 @@
+{
+  "name": "car-scraper",
+  "version": "1.0.0",
+  "description": "A node.js car.gr scraper using cheerio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Mike Kokkolios <mikekokkolios@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
