@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git://github.com/mikekok/car-scraper.git"
   },
-  "keywords": {
+  "keywords": [
     "car",
     "car.gr",
     "scraping",
     "web scraping",
     "greek scraper"
-  },
+  ],
   "author": "Mike Kokkolios <mikekokkolios@gmail.com>",
   "license": "MIT",
   "dependencies": {
